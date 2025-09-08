@@ -9,7 +9,7 @@
 🌱 &nbsp;Skilled in **developing technological strategies** aligned with long-term business objectives.\
 🛠️ &nbsp;Proficient in **full-stack development**, with expertise in modern frameworks, databases, and cloud environments.\
 ✉️ &nbsp;You can reach me at **mario19ok@gmail.com** — I will be glad to respond promptly.\
-📄 &nbsp;Please have a look at my [Résumé](https://marionogame.github.io/marionogamePortafolio) for more details about me.
+📄 &nbsp;Please have a look at my [Portfolio](https://marionogame.github.io/marionogamePortafolio) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -40,11 +40,11 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://marionogame.github.io/marionogamePortafolio"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mario-jose-espaillat-morey-2a3328287"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/mariook1"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://ikompras.net"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<p >
+<a href="https://www.linkedin.com/in/mario-jose-espaillat-morey-2a3328287"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+  <a href="https://marionogame.github.io/marionogamePortafolio"><img src="https://img.shields.io/badge/-Marionogame.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://ikompras.net"><img src="https://img.shields.io/badge/-Ikompras-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.instagram.com/mariook1"><img src="https://img.shields.io/badge/-@mariook1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
