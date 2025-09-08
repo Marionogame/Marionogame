@@ -42,7 +42,7 @@
 
 <p >
 <a href="https://www.linkedin.com/in/mario-jose-espaillat-morey-2a3328287"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-  <a href="https://marionogame.github.io/marionogamePortafolio"><img src="https://img.shields.io/badge/-Marionogame.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://marionogame.github.io/marionogamePortafolio"><img src="https://img.shields.io/badge/-My%20Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://ikompras.net"><img src="https://img.shields.io/badge/-Ikompras-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 <a href="https://www.instagram.com/mariook1"><img src="https://img.shields.io/badge/-@mariook1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
